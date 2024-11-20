@@ -1,4 +1,4 @@
-/* styles.css */
+
 :root {
   --base-color: rgba(190, 190, 190, 0.829);
   --background-color: #fff;;
@@ -153,9 +153,6 @@ button:hover {
 }
 
 
-
-
-/* Blinking animation */
 @keyframes blink {
   50% {
     opacity: 0;
